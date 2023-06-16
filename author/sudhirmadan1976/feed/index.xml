@@ -12,8 +12,8 @@
 
 <channel>
 	<title>sudhir madan &#8211; International women’s month</title>
-	<atom:link href="/author/sudhirmadan1976/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://teams.sudhirmadan.online/CSGSports/author/sudhirmadan1976/feed/" rel="self" type="application/rss+xml" />
+	<link>http://teams.sudhirmadan.online/CSGSports/</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2023 05:52:33 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -26,26 +26,26 @@
 <image>
 	<url>https://s0.wp.com/i/webclip.png</url>
 	<title>sudhir madan &#8211; International women’s month</title>
-	<link>/</link>
+	<link>http://teams.sudhirmadan.online/CSGSports/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">220053649</site>	<item>
 		<title>Hello World!</title>
-		<link>/2023/06/12/hello-world/</link>
-					<comments>/2023/06/12/hello-world/#respond</comments>
+		<link>http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/</link>
+					<comments>http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[sudhir madan]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 05:52:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/2023/06/12/hello-world/</guid>
+		<guid isPermaLink="false">http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/</guid>
 
 					<description><![CDATA[Welcome to WordPress! This is your first post. Edit or delete it to take the first step in your blogging journey.]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress! This is your first post. Edit or delete it to take the first step in your blogging journey.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/06/12/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

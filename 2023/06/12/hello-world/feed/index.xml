@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello World!	</title>
-	<atom:link href="/2023/06/12/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2023/06/12/hello-world/</link>
+	<atom:link href="http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://teams.sudhirmadan.online/CSGSports/2023/06/12/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2023 05:52:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
